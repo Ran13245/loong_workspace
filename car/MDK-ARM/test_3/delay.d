@@ -1,0 +1,12 @@
+test_3\delay.o: ..\Core\Src\delay.c
+test_3\delay.o: ../Core/Inc/delay.h
+test_3\delay.o: ../Core/Inc/sys.h
+test_3\delay.o: D:\Users\17898\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h
+test_3\delay.o: .\RTE\_test_3\RTE_Components.h
+test_3\delay.o: ../Drivers/CMSIS/Include/core_cm3.h
+test_3\delay.o: D:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+test_3\delay.o: ../Drivers/CMSIS/Include/cmsis_version.h
+test_3\delay.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+test_3\delay.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test_3\delay.o: D:\Users\17898\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h
+test_3\delay.o: ../Core/Inc/delay.h

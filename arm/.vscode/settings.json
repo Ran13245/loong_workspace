@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "LED.C": "cpp",
+        "sys.h": "c",
+        "stm32f4xx.h": "c",
+        "control.h": "c",
+        "led.h": "c",
+        "usart.h": "c",
+        "delay.h": "c",
+        "oled.h": "c",
+        "encoder.h": "c",
+        "exti.h": "c",
+        "ioi2c.h": "c",
+        "can.h": "c",
+        "usartx.h": "c",
+        "show.h": "c",
+        "limits": "c"
+    }
+}
