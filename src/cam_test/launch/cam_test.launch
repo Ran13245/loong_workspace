@@ -1,0 +1,4 @@
+<launch>
+    <node pkg = "cam_test" type = "cam_pub" name = "cam_pub" args = "0"/>
+    <node pkg = "cam_test" type = "image_processor_node" name = "image_processor_node" />
+</launch>

@@ -1,0 +1,4 @@
+<launch>
+    <node pkg = "arm_pkg" type = "arm_ctrl" name = "arm_ctrl" />
+    <node pkg = "arm_pkg" type = "arm_pub2" name = "arm_pub2" />
+</launch>

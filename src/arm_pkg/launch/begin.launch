@@ -1,0 +1,6 @@
+<launch>
+    <node pkg = "arm_pkg" type = "arm_ctrl" name = "arm_ctrl" />
+    <node pkg = "arm_pkg" type = "ctrl_pub" name = "ctrl_pub" />
+    <node pkg = "cam_test" type = "cam_pub" name = "cam_pub" args = "0"/>
+    <node pkg = "cam_test" type = "image_processor_node" name = "image_processor_node"/>
+</launch>
